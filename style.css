@@ -1,0 +1,121 @@
+.image {
+    background-image: url(./images/ape-001.png);
+    background-size: 300px 400px;
+    background-color: white;
+    color: #db6e14;
+    width: 296px;
+    height: 400px;
+    display: inline-block;
+    position: absolute;
+    border-radius: 15px 15px 200px 200px;
+}
+#left {
+    border-radius: 10px 0px 0px 10px;
+}
+#right {
+    border-radius: 10px 10px 10px 0px;
+}
+#left, #right {
+    display: inline-block;
+    width: 146px;
+    height: 500px;
+    background-color: #db6e14;
+}
+.cardclick {
+    position: absolute;
+    width: auto;
+    height: auto;
+    border-radius: 15px 15px 15px 15px;
+}
+.firstbox {
+    background-color: white;
+    display: inline-block;
+    border-radius: 15px 15px 15px 15px;
+}
+.s1 {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 63%;
+    margin-left: 0%;
+}
+.s1 span, .s2 span {
+    display: block;
+}
+.s2 {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 63%;
+    margin-left: -50%;
+}
+.mainhead {
+    color: white;
+    font-size: 27px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.cardtwo {
+    background-color: #db6e14;
+    width: 300px;
+    height: 500px;
+    border-radius: 15px;
+    position: absolute;
+    left: 370px;
+    display: inline-block;
+}
+.username {
+    font-weight: bold;
+    width: 230px;
+    margin: 0 35px 20px;
+    height: 45px;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+    padding-left: 5px;
+}
+.btn {
+    font-weight: bold;
+    width: 230px;
+    margin: 0 35px 20px;
+    height: 45px;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+    background-color: white;
+    color: #db6e14;
+}
+.signup1 {
+    color: white;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+.forgetpass {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+body {
+    background-image: url(./images/pexels-tara.jpg);
+    background-size: 70%;
+    padding-left: 30%;
+    padding-top: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
